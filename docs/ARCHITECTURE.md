@@ -20,6 +20,13 @@ This document describes the high-level architecture of the `job-scraper` project
 
 ## Flow (sequence)
 
+Embedded architecture diagram (SVG):
+
+![Architecture diagram](images/architecture.svg)
+
+
+For quick reference the logical flow is:
+
 ```mermaid
 flowchart LR
   A[Start] --> B{Use Playwright?}
@@ -36,6 +43,10 @@ flowchart LR
   J --> K[Write CSV to data/]
   K --> L[Done]
 ```
+
+Notes:
+- The SVG above is included for convenience and renders on GitHub; the mermaid flow is kept for developers who prefer the diagram source.
+- The diagram highlights optional branches such as `--follow-details` and the choice between `requests` and Playwright.
 
 ## Data model
 - Each job row is a dict with keys:
