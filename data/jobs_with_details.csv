@@ -1,0 +1,1408 @@
+Position Title,Category,Duration,Key Programming & Technical Skills,Position ID,Deadline,City,Country
+Summer 2026 Co-op: WiSE Full Stack Software Developer (4 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: WiSE Full Stack Software Developer (4 )"",
+	  ""description"" : ""At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br /><br />• Expand your network by participating in national and local social activities with other co-ops<br /><br />• Develop your own learning plan by leveraging our e-learning platform<br /><br />• Participate in professional development workshops focused on soft skill development<br /><br />• Participate in an AI hackathon where the top team wins a grand prize<br /><br />• Fast track to future new grad opportunities at CGI<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""SK"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",.NET ; CSS ; HTML ; Java ; JavaScript ; PHP ; Python ; SQL Server,J0126-0658,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: WiSE Full Stack Software Developer (4 months)"",
+	  ""description"" : ""At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br /><br />• Expand your network by participating in national and local social activities with other co-ops<br /><br />• Develop your own learning plan by leveraging our e-learning platform<br /><br />• Participate in professional development workshops focused on soft skill development<br /><br />• Participate in an AI hackathon where the top team wins a grand prize<br /><br />• Fast track to future new grad opportunities at CGI<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""SK"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Montréal,Canada
+Summer 2026 Co-op: WiSE Desktop Support Technician (8 months),Service Desk / End User Services,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: WiSE Desktop Support Technician (8 )"",
+	  ""description"" : ""The Desktop Technician is part of the GTO Canada End User Services team.<br />The partner will be responsible for the set up and support of desktop and laptop equipment for our client.<br /><br />At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br /><br />• Expand your network by participating in national and local social activities with other co-ops<br /><br />• Develop your own learning plan by leveraging our e-learning platform<br /><br />• Participate in professional development workshops focused on soft skill development<br /><br />• Participate in an AI hackathon where the top team wins a grand prize<br /><br />• Fast track to future new grad opportunities at CGI<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Customer Service & Support ; Team Player ; Windows 10,J0126-0313,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: WiSE Desktop Support Technician (8 months)"",
+	  ""description"" : ""The Desktop Technician is part of the GTO Canada End User Services team.<br />The partner will be responsible for the set up and support of desktop and laptop equipment for our client.<br /><br />At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br /><br />• Expand your network by participating in national and local social activities with other co-ops<br /><br />• Develop your own learning plan by leveraging our e-learning platform<br /><br />• Participate in professional development workshops focused on soft skill development<br /><br />• Participate in an AI hackathon where the top team wins a grand prize<br /><br />• Fast track to future new grad opportunities at CGI<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Montréal,Canada
+Summer 2026 Co-op: Developer (4 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Developer (4 )"",
+	  ""description"" : ""CGI offers a great opportunity for students to work with different teams in our company. The ideal candidate will work, assist, and support their teams in important tasks.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Angular ; Java ; JavaScript ; SQL,J0126-0315,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Developer (4 months)"",
+	  ""description"" : ""CGI offers a great opportunity for students to work with different teams in our company. The ideal candidate will work, assist, and support their teams in important tasks.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Montréal,Canada
+Summer 2026 Co-op: .NET Developer (3 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: .NET Developer (3 )"",
+	  ""description"" : ""CGI is looking for enthusiastic and talented students for our .NET Developer Intern position for Summer 2026. As an intern, you will be called upon to support our business units and help deliver excellent service to our clients. The successful candidate will have the opportunity to showcase a strong academic background, combined with an ambitious entrepreneurial spirit and a passion for working closely with CGI leaders.<br /><br />To foster collaboration and partnership with clients, interns will be required to work on-site several times per week.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: February 13th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-02-13"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Saguenay"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",.NET ; ASP.NET ; C# ; CSS ; HTML ; JavaScript ; MVC ; XML,J0126-0324,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: .NET Developer (3 months)"",
+	  ""description"" : ""CGI is looking for enthusiastic and talented students for our .NET Developer Intern position for Summer 2026. As an intern, you will be called upon to support our business units and help deliver excellent service to our clients. The successful candidate will have the opportunity to showcase a strong academic background, combined with an ambitious entrepreneurial spirit and a passion for working closely with CGI leaders.<br /><br />To foster collaboration and partnership with clients, interns will be required to work on-site several times per week.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : February 13th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-02-13"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Saguenay"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Saguenay,Canada
+Summer 2026 Co-op: SAP ABAP Developer (4 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: SAP ABAP Developer (4 )"",
+	  ""description"" : ""CGI is looking for enthusiastic and talented students for our SAP Developer Intern position for Summer 2026. As an intern, you will be called upon to support our team at the Global Delivery Center in Saguenay and contribute to delivering excellent service to our clients. <br />The selected candidate will have the opportunity to showcase a strong academic background, combined with an ambitious entrepreneurial spirit and a passion for working closely with CGI leaders.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Saguenay"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Analytical Thinking ; Problem Solving/DecisionMaking ; Team Player,J0126-0401,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: SAP ABAP Developer (4 months)"",
+	  ""description"" : ""CGI is looking for enthusiastic and talented students for our SAP Developer Intern position for Summer 2026. As an intern, you will be called upon to support our team at the Global Delivery Center in Saguenay and contribute to delivering excellent service to our clients. <br />The selected candidate will have the opportunity to showcase a strong academic background, combined with an ambitious entrepreneurial spirit and a passion for working closely with CGI leaders.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Saguenay"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Saguenay,Canada
+Summer 2026 Co-op: Programmer (4 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Programmer (4 )"",
+	  ""description"" : ""CGI offers an excellent opportunity for students to work with various teams across our company. The ideal candidate will work with, assist, and support their teams in important tasks.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Shawinigan"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Back End Development ; Python ; SQL,J0126-0402,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Programmer (4 months)"",
+	  ""description"" : ""CGI offers an excellent opportunity for students to work with various teams across our company. The ideal candidate will work with, assist, and support their teams in important tasks.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Shawinigan"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Shawinigan,Canada
+Summer 2026 Co-op: WiSE Desktop Technician (4 months),Service Desk / End User Services,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: WiSE Desktop Technician (4 )"",
+	  ""description"" : ""At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br /><br />• Expand your network by participating in national and local social activities with other co-ops<br /><br />• Develop your own learning plan by leveraging our e-learning platform<br /><br />• Participate in professional development workshops focused on soft skill development<br /><br />• Participate in an AI hackathon where the top team wins a grand prize<br /><br />• Fast track to future new grad opportunities at CGI<br /><br />To foster collaboration and partnership with clients, interns will need to be present at the office several times a week.<br /><br />Start Date: May 4th, 2026<br />Application Deadline: January 23rd, 2026<br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Mississauga"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Microsoft Office365 ; Network ; Windows 10,J1225-1043,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: WiSE Desktop Technician (4 months)"",
+	  ""description"" : ""At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br /><br />• Expand your network by participating in national and local social activities with other co-ops<br /><br />• Develop your own learning plan by leveraging our e-learning platform<br /><br />• Participate in professional development workshops focused on soft skill development<br /><br />• Participate in an AI hackathon where the top team wins a grand prize<br /><br />• Fast track to future new grad opportunities at CGI<br /><br />To foster collaboration and partnership with clients, interns will need to be present at the office several times a week.<br /><br />Start Date: May 4th, 2026<br />Application : January 23rd, 2026<br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Mississauga"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Mississauga,Canada
+Summer 2026 Co-op: Developer (4 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Developer (4 )"",
+	  ""description"" : ""As an intern developer, you will contribute to the design, development, and maintenance of various applications (web, mobile, backend) using a range of languages and technologies. You will be part of a multidisciplinary team composed of developers, analysts, and designers, with whom you will collaborate to deliver robust and scalable solutions that meet client needs.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Saguenay"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",.NET ; Angular ; DevOps ; Java ; JavaScript ; Kotlin ; Python ; SQL,J0126-0475,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Developer (4 months)"",
+	  ""description"" : ""As an intern developer, you will contribute to the design, development, and maintenance of various applications (web, mobile, backend) using a range of languages and technologies. You will be part of a multidisciplinary team composed of developers, analysts, and designers, with whom you will collaborate to deliver robust and scalable solutions that meet client needs.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Saguenay"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Saguenay,Canada
+Summer 2026 Co-op: Sales Operations Coordinator (8 months),Marketing,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Sales Operations Coordinator (8 )"",
+	  ""description"" : ""CGI is seeking a dynamic and motivated Sales Operations Coordinator Co-op to join our team in Toronto. As a leading global IT and business consulting services firm, CGI offers a unique opportunity to gain hands-on experience supporting client-facing marketing, executive presentations and visual storytelling in a collaborative and innovative environment. <br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Communication (Oral/Written) ; Digital Marketing ; Microsoft Office ; Microsoft PowerPoint,J0126-0509,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Sales Operations Coordinator (8 months)"",
+	  ""description"" : ""CGI is seeking a dynamic and motivated Sales Operations Coordinator Co-op to join our team in Toronto. As a leading global IT and business consulting services firm, CGI offers a unique opportunity to gain hands-on experience supporting client-facing marketing, executive presentations and visual storytelling in a collaborative and innovative environment. <br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: Junior AI Developer (4 months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Junior AI Developer (4 )"",
+	  ""description"" : ""We are seeking a motivated and technically skilled junior AI developer for a co-op position starting Summer 2026. This role offers a unique opportunity to gain hands-on experience in AI development, machine learning operations, and data pipeline engineering in a collaborative environment.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application Deadline: January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Python ; Scikit-Learn ; SQL ; TensorFlow Framework,J0126-0514,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Junior AI Developer (4 months)"",
+	  ""description"" : ""We are seeking a motivated and technically skilled junior AI developer for a co-op position starting Summer 2026. This role offers a unique opportunity to gain hands-on experience in AI development, machine learning operations, and data pipeline engineering in a collaborative environment.<br /><br />Perks of being a CGI Co-op:<br /><br />The co-op program was designed to help students improve their skills and explore their professional interests through hands-on experience and professional guidance, while also helping them develop core competencies. As an intern, you have access to:<br /><br />• Professional development sessions<br />• Professional development platform<br />• Networking events with colleagues and leaders<br />• Mentorship from leaders and colleagues aimed at setting and achieving your career goals<br /><br /><strong>Start Date: May 4th, 2026</strong><br /><strong>Application : January 30th, 2026</strong><br /><br />CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy."",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Montréal"",
+	      ""addressRegion"" : ""QC"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Montréal,Canada
+Summer 2026 Co-op: Project Control Officer (12 months),Project Management,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Project Control Officer (12 )"",
+	  ""description"" : ""We are Canada's largest independent information technology services firm, and after 45 years, we're still growing. We are looking for Project Control Officer to support Business Operations in our growing team. We are offering a chance to work with our team of experience professionals, who are responsible for maintaining the standards of project management and providing high-value support to our Business Unit. This is your opportunity to learn about business operations and project management in an advanced business environment. You will work with CGI Consultants, Directors and Executives on a full range of business operations, program management and resourcing activities/tasks.<br /><br />In an effort to foster collaboration and partner with clients, co-op students will be required to be in the office multiple times a week.<br /><br />Start Date: May 2026<br />Application Deadline: January 30, 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Project Governance ; Project Management ; Project Management (T1),J0126-0290,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Project Control Officer (12 months)"",
+	  ""description"" : ""We are Canada's largest independent information technology services firm, and after 45 years, we're still growing. We are looking for Project Control Officer to support Business Operations in our growing team. We are offering a chance to work with our team of experience professionals, who are responsible for maintaining the standards of project management and providing high-value support to our Business Unit. This is your opportunity to learn about business operations and project management in an advanced business environment. You will work with CGI Consultants, Directors and Executives on a full range of business operations, program management and resourcing activities/tasks.<br /><br />In an effort to foster collaboration and partner with clients, co-op students will be required to be in the office multiple times a week.<br /><br />Start Date: May 2026<br />Application : January 30, 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+WiSE Summer 2026 Co-op: AI Automation Analyst/Developer (8 Months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""WiSE Summer 2026 Co-op: AI Automation Analyst/Developer (8 )"",
+	  ""description"" : ""This position is for a software developer/AI automation Analyst to work as a member of the Delivery/Operations team in the Toronto Financial Services business unit (Insurance Sector).  <br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />The WiSE (women in STEM excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br />• Expand your network by participating in national and local social activities with other co-ops<br />• Develop your own learning plan by leveraging our e-learning platform<br />• Participate in professional development workshops focused on soft skill development<br />• Participate in an AI hackathon where the top team wins a grand prize<br />• Fast track to future new grad opportunities at CGI<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Artificial Intelligence ; Artificial Neural Networks ; Java ; Python,J0126-0227,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""WiSE Summer 2026 Co-op: AI Automation Analyst/Developer (8 Months)"",
+	  ""description"" : ""This position is for a software developer/AI automation Analyst to work as a member of the Delivery/Operations team in the Toronto Financial Services business unit (Insurance Sector).  <br />Start Date: May 2026<br />Application : January 30 2026<br /><br />The WiSE (women in STEM excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br />• Expand your network by participating in national and local social activities with other co-ops<br />• Develop your own learning plan by leveraging our e-learning platform<br />• Participate in professional development workshops focused on soft skill development<br />• Participate in an AI hackathon where the top team wins a grand prize<br />• Fast track to future new grad opportunities at CGI<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: Delivery Analytics (4 Months),Project Management,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Delivery Analytics (4 )"",
+	  ""description"" : ""Position Description  <br />We are looking for a motivated and detail-oriented Delivery Analytics Co-op to join our service delivery team. In this role, you will analyze operational data across ITSM functions—Incidents, Problems, Changes, Service Requests, and Timesheets—to uncover patterns, trends, and actionable insights. Your insights will help improve service quality, reduce operational friction, and support continuous improvement initiatives across multiple workstreams. <br />This is an excellent opportunity for an analytical thinker who enjoys solving real-world service management challenges through data. <br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Analytical Thinking ; Analyzing Data with Power BI ; Delivery Management ; Design (Infrastructure),J0126-0228,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Delivery Analytics (4 Months)"",
+	  ""description"" : ""Position Description  <br />We are looking for a motivated and detail-oriented Delivery Analytics Co-op to join our service delivery team. In this role, you will analyze operational data across ITSM functions—Incidents, Problems, Changes, Service Requests, and Timesheets—to uncover patterns, trends, and actionable insights. Your insights will help improve service quality, reduce operational friction, and support continuous improvement initiatives across multiple workstreams. <br />This is an excellent opportunity for an analytical thinker who enjoys solving real-world service management challenges through data. <br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-Op: WiSE AI Software Developer ( 4 Months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-Op: WiSE AI Software Developer ( 4 )"",
+	  ""description"" : ""At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE (Women in STEM Excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br />• Expand your network by participating in national and local social activities with other co-ops<br />• Develop your own learning plan by leveraging our e-learning platform<br />• Participate in professional development workshops focused on soft skill development<br />• Participate in an AI hackathon where the top team wins a grand prize<br />• Fast track to future new grad opportunities at CGI<br /><br />We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The individual will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context.<br /><br />This role requires the co-op student t to work within tight timelines, with competing priorities and evolving requirements. In an effort to foster collaboration and partner with clients, co-op students will be required to be in the office multiple times a week at our 150 Commerce Valley Drive West office in Markham.<br /><br />Start Date: May 4 2026<br />Application Deadline: January 23, 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Articulate ; Artifactory ; Artificial Intelligence,J1225-0825,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-Op: WiSE AI Software Developer ( 4 Months)"",
+	  ""description"" : ""At CGI we are committed to investing in the next generation of women leaders. Diversity of thought and experience are integral to pushing the boundaries of emerging technologies. Join our WiSE (Women in STEM Excel) co-op program designed specifically to prepare and equip future women leaders through mentorship, vast networking opportunities and professional development workshops.<br /><br />The WiSE (Women in STEM Excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br /><br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br />• Expand your network by participating in national and local social activities with other co-ops<br />• Develop your own learning plan by leveraging our e-learning platform<br />• Participate in professional development workshops focused on soft skill development<br />• Participate in an AI hackathon where the top team wins a grand prize<br />• Fast track to future new grad opportunities at CGI<br /><br />We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The individual will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context.<br /><br />This role requires the co-op student t to work within tight timelines, with competing priorities and evolving requirements. In an effort to foster collaboration and partner with clients, co-op students will be required to be in the office multiple times a week at our 150 Commerce Valley Drive West office in Markham.<br /><br />Start Date: May 4 2026<br />Application : January 23, 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+WiSE Summer 2026 Co-Op: WiSE Quality Assurance & Automation (4 Months),Testing/Quality Assurance,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""WiSE Summer 2026 Co-Op: WiSE Quality Assurance & Automation (4 )"",
+	  ""description"" : ""We are looking for a motivated and technically curious co-op student to support the COM team in Quality Assurance, automation, and AI-driven solutions. This role is ideal for a student interested in software testing, database validation, and the practical application of AI tools, including building and guiding AI agents to support testing and productivity. <br /><br />The co-op will work closely with developers, QA analysts, AI specialists, and architects on both traditional QA activities and emerging AI-enabled workflows.<br /><br />The WiSE (Women in STEM Excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br /> - Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />What You’ll Gain <br /><br />Hands-on QA experience in a complex enterprise system <br /><br />Exposure to AI and automation tools used in real delivery environments <br /><br />Experience designing, configuring, and experimenting with AI agents <br /><br />Mentorship from senior BSA, automation, and AI specialists <br /><br />Opportunity to contribute to innovation and process improvement<br /><br />Start Date: May 4 2026<br />Application Deadline: January 23, 2026"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Quality Assurance/QA Strategy ; QuickTest Pro ; Test Analysis,J1225-0826,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""WiSE Summer 2026 Co-Op: WiSE Quality Assurance & Automation (4 Months)"",
+	  ""description"" : ""We are looking for a motivated and technically curious co-op student to support the COM team in Quality Assurance, automation, and AI-driven solutions. This role is ideal for a student interested in software testing, database validation, and the practical application of AI tools, including building and guiding AI agents to support testing and productivity. <br /><br />The co-op will work closely with developers, QA analysts, AI specialists, and architects on both traditional QA activities and emerging AI-enabled workflows.<br /><br />The WiSE (Women in STEM Excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br /> - Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />What You’ll Gain <br /><br />Hands-on QA experience in a complex enterprise system <br /><br />Exposure to AI and automation tools used in real delivery environments <br /><br />Experience designing, configuring, and experimenting with AI agents <br /><br />Mentorship from senior BSA, automation, and AI specialists <br /><br />Opportunity to contribute to innovation and process improvement<br /><br />Start Date: May 4 2026<br />Application : January 23, 2026"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: AI Software Developer (4 Months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: AI Software Developer (4 )"",
+	  ""description"" : ""We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The candiate will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context. <br /><br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Markham"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Artificial Intelligence ; Artificial Neural Networks,J0126-0218,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: AI Software Developer (4 Months)"",
+	  ""description"" : ""We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The candiate will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context. <br /><br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Markham"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Markham,Canada
+WiSE Summer 2026 Co-op: DevSecOps - AI Developer - Data Scientist (4 Months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""WiSE Summer 2026 Co-op: DevSecOps - AI Developer - Data Scientist (4 )"",
+	  ""description"" : ""This position is for a DevSecOps - AI Developer - Data Scientist to work as a member of the Delivery/Operations team in the Toronto Financial Services business unit.<br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer<br /><br /> The WiSE (women in STEM excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br />• Expand your network by participating in national and local social activities with other co-ops<br />• Develop your own learning plan by leveraging our e-learning platform<br />• Participate in professional development workshops focused on soft skill development<br />• Participate in an AI hackathon where the top team wins a grand prize<br />• Fast track to future new grad opportunities at CGI"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Artificial Intelligence ; DevOps,J0126-0296,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""WiSE Summer 2026 Co-op: DevSecOps - AI Developer - Data Scientist (4 Months)"",
+	  ""description"" : ""This position is for a DevSecOps - AI Developer - Data Scientist to work as a member of the Delivery/Operations team in the Toronto Financial Services business unit.<br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer<br /><br /> The WiSE (women in STEM excel) co-op program accelerates the development of future women leaders by providing a customized experience for participants:<br /><br />• Participate in a week of onboarding and integration activities starting on your first day at CGI, activities include:<br />- Business etiquette workshop<br />- Foundations of business consulting workshops<br />- Developing your elevator pitch workshop<br />- Networking with peers across Canada<br /><br />• Exposure to leaders through interactive sessions and a 1:1 mentorship with a CGI woman leader<br />• Obtain the ScaledAgile SAFe for Teams Certification: Technical Skills Agility (ScaledAgile)SAFe for Teams will teach you all about your role on an Agile team and how agile teams work with others as part of an agile release train. Members learn how to plan and execute work, how to apply Scaled Agile Framework® and Agile principles, and how to continuously improve<br />• Expand your network by participating in national and local social activities with other co-ops<br />• Develop your own learning plan by leveraging our e-learning platform<br />• Participate in professional development workshops focused on soft skill development<br />• Participate in an AI hackathon where the top team wins a grand prize<br />• Fast track to future new grad opportunities at CGI"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: Operations Analyst (8 Months),Administration,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Operations Analyst (8 )"",
+	  ""description"" : ""CGI has a unique and challenging opportunity for a proactive leader with strong organizational ability, a keen analytical mind, who is relationship savvy, and has a desire to work with CGI's senior leaders to help to plan and support CGI as we continue to grow.  <br />Supporting four GTA business units, the successful candidate will have the opportunity to display their solid academic background combined with an ambitious entrepreneurial spirit and an affinity to work closely with CGI's senior level management.  <br />This role requires the incumbent to work within tight timelines, with competing priorities and evolving requirements.  <br />If you are a Business or Technology graduate with a few years of experience who is keen to be intrinsically involved in Canada's largest and fastest growing IT consulting company, this is the perfect opportunity for you.  <br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Administrative Support ; Operations Management,J0126-0298,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Operations Analyst (8 Months)"",
+	  ""description"" : ""CGI has a unique and challenging opportunity for a proactive leader with strong organizational ability, a keen analytical mind, who is relationship savvy, and has a desire to work with CGI's senior leaders to help to plan and support CGI as we continue to grow.  <br />Supporting four GTA business units, the successful candidate will have the opportunity to display their solid academic background combined with an ambitious entrepreneurial spirit and an affinity to work closely with CGI's senior level management.  <br />This role requires the incumbent to work within tight timelines, with competing priorities and evolving requirements.  <br />If you are a Business or Technology graduate with a few years of experience who is keen to be intrinsically involved in Canada's largest and fastest growing IT consulting company, this is the perfect opportunity for you.  <br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: Financial Analyst (8 Months),Administration,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Financial Analyst (8 )"",
+	  ""description"" : ""We are seeking a highly organized and detail-oriented Financial Analyst/Project Control Officer to join our TFS – Accounts Control Team. The FA will be responsible for supporting project management activities, ensuring that financial deliverables are completed on time, and meet quality standards. This role requires strong coordination skills, an ability to manage multiple priorities, and experience in project control activities. <br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Financial Accounting ; Financial Analysis ; Financial Management,J0126-0299,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Financial Analyst (8 Months)"",
+	  ""description"" : ""We are seeking a highly organized and detail-oriented Financial Analyst/Project Control Officer to join our TFS – Accounts Control Team. The FA will be responsible for supporting project management activities, ensuring that financial deliverables are completed on time, and meet quality standards. This role requires strong coordination skills, an ability to manage multiple priorities, and experience in project control activities. <br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : ""ON"",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: AI Software Developer (4 Months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: AI Software Developer (4 )"",
+	  ""description"" : ""Position Description  <br />We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The candiate will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context. <br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Artificial Intelligence ; Software Design Patterns ; Software Development,J0126-0300,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: AI Software Developer (4 Months)"",
+	  ""description"" : ""Position Description  <br />We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The candiate will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context. <br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada
+Summer 2026 Co-op: Software Engineering Co-op (AI & Full Stack) (4 Months),Software Development / Engineering,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Software Engineering Co-op (AI & Full Stack) (4 )"",
+	  ""description"" : ""We are seeking a motivated Software Engineering Co-op with strong skills in full-stack development, AI/ML, and modern application engineering. The ideal candidate is a hands-on builder who enjoys solving problems, creating prototypes, and working across both frontend and backend technologies. <br />In this role, the student will contribute to application development, AI feature integration, data workflows, and technical research to support ongoing product or engineering initiatives. <br /><br />Start Date: May 2026<br />Application Deadline: January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Java ; Programmatic Marketing ; Python,J0126-0387,"{
+	  ""@context"" : ""http://schema.org/"",
+	  ""@type"" : ""JobPosting"",
+	  ""title"" : ""Summer 2026 Co-op: Software Engineering Co-op (AI & Full Stack) (4 Months)"",
+	  ""description"" : ""We are seeking a motivated Software Engineering Co-op with strong skills in full-stack development, AI/ML, and modern application engineering. The ideal candidate is a hands-on builder who enjoys solving problems, creating prototypes, and working across both frontend and backend technologies. <br />In this role, the student will contribute to application development, AI feature integration, data workflows, and technical research to support ongoing product or engineering initiatives. <br /><br />Start Date: May 2026<br />Application : January 30 2026<br /><br />Perks of Being a CGI Co-op:<br />• Participate in monthly socials to meet co-ops across the country.<br />• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!<br /><br />To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer"",
+	  ""identifier"": {
+	    ""@type"": ""PropertyValue"",
+	    ""name"": ""CGI"",
+	    ""value"": ""21001""
+	  },
+	  ""datePosted"" : ""2026-01-12"",
+
+	  ""validThrough"" : ""2026-01-30"",
+
+	  ""employmentType"" : ""OTHER"",
+	  ""hiringOrganization"" : {
+	    ""@type"" : ""Organization"",
+	    ""name"" : ""CGI"",
+	    ""sameAs"" : ""http://www.cgi.com"",
+	    ""logo"" : ""https://cgi.njoyn.com/corp/xweb/clientfiles/cgi/logo3.png""
+	  },
+	  ""jobLocation"" : {
+	    ""@type"" : ""Place"",
+	    ""address"" : {
+	      ""@type"" : ""PostalAddress"",
+	      ""streetAddress"" : """",
+	      ""addressLocality"" : ""Toronto"",
+	      ""addressRegion"" : """",
+	      ""postalCode"" : """",
+	      ""addressCountry"": ""CA ""
+	    }
+	  }
+	  
+	}",Toronto,Canada

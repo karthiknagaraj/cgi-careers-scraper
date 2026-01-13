@@ -1,0 +1,28 @@
+name: Scheduled Scrape
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # daily at 08:00 UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install playwright
+          playwright install --with-deps
+      - name: Run scraper
+        run: |
+          python scraper.py --output data/jobs_$(date +'%Y%m%d').csv --keywords-file keywords.txt --use-playwright --follow-details --max-pages 50
+      - name: Upload CSV artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: jobs-csv
+          path: data/*.csv

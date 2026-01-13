@@ -1,0 +1,5 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.2.2
+# Optional for robust pagination if needed:
+playwright==1.52.0

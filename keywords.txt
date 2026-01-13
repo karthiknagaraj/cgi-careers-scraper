@@ -1,0 +1,3 @@
+# Keywords to filter job listings; one per line
+# Lines starting with # are ignored
+Summer 2026
