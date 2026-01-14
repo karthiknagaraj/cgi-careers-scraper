@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Careers Scraper UI</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 20px; }
+      label { display:block; margin-top:8px; }
+      table { border-collapse: collapse; width: 100%; margin-top: 12px; }
+      th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+      #status { margin-top: 8px; }
+    </style>
+  </head>
+  <body>
+    <h1>Careers Scraper UI</h1>
+    <form id="searchForm">
+      <label>Careers URL
+        <input type="url" id="url" placeholder="https://..." style="width:100%" value="">
+      </label>
+      <label>Keyword
+        <input type="text" id="keyword" placeholder="e.g., Summer 2026" style="width:100%">
+      </label>
+      <label><input type="checkbox" id="usePlaywright"> Use Playwright (JS rendering)</label>
+      <label><input type="checkbox" id="followDetails"> Follow detail pages (slower)</label>
+      <label>Max pages
+        <input type="number" id="maxPages" value="1" min="1" max="50">
+      </label>
+      <button type="submit">Search</button>
+    </form>
+
+    <div id="status"></div>
+
+    <table id="results" style="display:none">
+      <thead>
+        <tr>
+          <th>Position ID</th>
+          <th>Position Title</th>
+          <th>Category</th>
+          <th>Duration</th>
+          <th>Skills</th>
+          <th>Deadline</th>
+          <th>City</th>
+          <th>Country</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script>
+      const form = document.getElementById('searchForm');
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const url = document.getElementById('url').value;
+        const keyword = document.getElementById('keyword').value;
+        const usePlaywright = document.getElementById('usePlaywright').checked;
+        const followDetails = document.getElementById('followDetails').checked;
+        const maxPages = parseInt(document.getElementById('maxPages').value || '1');
+
+        document.getElementById('status').innerText = 'Searching...';
+        document.getElementById('results').style.display = 'none';
+        document.querySelector('#results tbody').innerHTML = '';
+
+        try {
+          const resp = await fetch('/api/search', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url, keyword, use_playwright: usePlaywright, follow_details: followDetails, max_pages: maxPages })
+          });
+          const data = await resp.json();
+          if (!data.ok) throw new Error(data.error || 'Search failed');
+          document.getElementById('status').innerText = `Found ${data.count} job(s)`;
+          if (data.count > 0) {
+            const tbody = document.querySelector('#results tbody');
+            for (const j of data.jobs) {
+              const tr = document.createElement('tr');
+              tr.innerHTML = `<td>${j['Position ID'] || ''}</td><td>${j['Position Title'] || ''}</td><td>${j['Category'] || ''}</td><td>${j['Duration'] || ''}</td><td>${j['Key Programming & Technical Skills'] || ''}</td><td>${j['Deadline'] || ''}</td><td>${j['City'] || ''}</td><td>${j['Country'] || ''}</td>`;
+              tbody.appendChild(tr);
+            }
+            document.getElementById('results').style.display = 'table';
+          }
+        } catch (err) {
+          document.getElementById('status').innerText = 'Error: ' + err.message;
+        }
+      });
+    </script>
+  </body>
+</html>
