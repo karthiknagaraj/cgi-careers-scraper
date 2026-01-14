@@ -573,28 +573,41 @@ def parse_job_detail_html(html):
     }
 
 
-def run(output_path, keywords=None, match_mode='any', use_regex=False, max_pages=1, use_playwright=False, follow_details=False):
+def scrape_jobs(url=None, keywords=None, match_mode='any', use_regex=False, max_pages=1, use_playwright=False, follow_details=False):
+    """Programmatic scraping API: return list of job dicts matching the filters.
+
+    Parameters:
+    - url: override base URL for this invocation (string)
+    - keywords: list of keywords to filter (list of strings)
+    - match_mode: 'any' or 'all'
+    - use_regex: treat keywords as regex
+    - max_pages: max pages to paginate
+    - use_playwright: render JS and paginate with Playwright
+    - follow_details: follow detail pages to enrich fields
+
+    Returns: list of job dicts
+    """
+    base = url or BASE_URL
     all_jobs = []
     if use_playwright:
         logging.info("Using Playwright to scrape pages (JS rendered)")
         try:
             search_kw = None
             if keywords:
-                # join keywords into a single search string for the site's search box
                 search_kw = " ".join(keywords)
             all_jobs = fetch_with_playwright(max_pages=max_pages, keyword=search_kw, follow_details=follow_details)
         except Exception as e:
             logging.error(f"Playwright mode failed: {e}")
-            return
+            return []
     else:
         session = requests.Session()
         for p in range(1, max_pages + 1):
-            url = BASE_URL
+            page_url = base
             if p > 1:
-                url = f"{BASE_URL}&pagenum={p}"
-            logging.info(f"Fetching {url}")
+                page_url = f"{base}&pagenum={p}"
+            logging.info(f"Fetching {page_url}")
             try:
-                html = fetch_page(session, url)
+                html = fetch_page(session, page_url)
             except Exception as e:
                 logging.error(f"Failed to fetch page {p}: {e}")
                 break
@@ -606,10 +619,14 @@ def run(output_path, keywords=None, match_mode='any', use_regex=False, max_pages
 
     filtered = filter_jobs(all_jobs, keywords=keywords, match_mode=match_mode, use_regex=use_regex)
     logging.info(f"Total jobs found: {len(all_jobs)}; after filter (keywords={keywords}, mode={match_mode}): {len(filtered)}")
+    return filtered
 
-    save_csv(filtered, output_path)
-    logging.info(f"Saved {len(filtered)} rows to {output_path}")
 
+def run(output_path, keywords=None, match_mode='any', use_regex=False, max_pages=1, use_playwright=False, follow_details=False):
+    # Backwards-compatible wrapper that saves to CSV
+    jobs = scrape_jobs(keywords=keywords, match_mode=match_mode, use_regex=use_regex, max_pages=max_pages, use_playwright=use_playwright, follow_details=follow_details)
+    save_csv(jobs, output_path)
+    logging.info(f"Saved {len(jobs)} rows to {output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
