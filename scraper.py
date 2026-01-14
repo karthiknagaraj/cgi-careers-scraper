@@ -12,12 +12,25 @@ import argparse
 from datetime import datetime
 import datetime as _datetime
 import json
+import logging
+import os
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
 BASE_URL = "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=joblisting"
 JOB_ID_RE = re.compile(r"J\d{4}-\d{4}")
+
+def load_config(config_file='config.json'):
+    """Load configuration from JSON file."""
+    if not os.path.exists(config_file):
+        return {}
+    try:
+        with open(config_file, 'r') as f:
+            return json.load(f)
+    except Exception as e:
+        logging.warning(f"Failed to load config from {config_file}: {e}")
+        return {}
 
 
 def fetch_page(session, url):
@@ -608,7 +621,13 @@ if __name__ == "__main__":
     parser.add_argument("--max-pages", type=int, default=50, help="max pages to try when paginating")
     parser.add_argument("--use-playwright", action="store_true", help="Use Playwright for JS-rendered pagination")
     parser.add_argument("--follow-details", action="store_true", help="Follow detail pages to extract Duration/Skills/Deadline (slower)")
+    parser.add_argument("--url", help="Override the careers listing URL from config.json")
+    parser.add_argument("--config", default="config.json", help="Path to config.json file")
     args = parser.parse_args()
+    
+    # Load config and determine the URL
+    config = load_config(args.config)
+    BASE_URL = args.url or config.get('careers_url') or BASE_URL
 
     # Load keywords from file and/or repeatable -k flags
     keywords = []
