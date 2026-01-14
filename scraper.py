@@ -162,19 +162,24 @@ except Exception:
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(message)s")
 
 
-def fetch_with_playwright(max_pages=50, keyword=None, follow_details=False):
+def fetch_with_playwright(max_pages=50, keyword=None, follow_details=False, base_url=None):
     """Use Playwright to paginate through listing pages and return extracted jobs.
     This renders JS and calls the page's gotopage(n) function when available.
+
+    Parameters:
+    - base_url: optional base URL to navigate to (defaults to global BASE_URL)
     """
     if sync_playwright is None:
         raise RuntimeError("Playwright is not installed. Install with `pip install playwright` and run `playwright install`.")
 
     jobs = []
 
+    base = base_url or BASE_URL
+
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(BASE_URL)
+        page.goto(base)
         # Wait for initial content
         page.wait_for_load_state("networkidle")
 
@@ -292,7 +297,7 @@ def fetch_with_playwright(max_pages=50, keyword=None, follow_details=False):
                             href = a.get_attribute('href') or ''
                         except Exception:
                             href = ''
-                        detail_href = urljoin(BASE_URL, href) if href else ''
+                        detail_href = urljoin(base, href) if href else ''
                         job = {
                             "Position ID": pid,
                             "Position Title": title,
@@ -595,7 +600,7 @@ def scrape_jobs(url=None, keywords=None, match_mode='any', use_regex=False, max_
             search_kw = None
             if keywords:
                 search_kw = " ".join(keywords)
-            all_jobs = fetch_with_playwright(max_pages=max_pages, keyword=search_kw, follow_details=follow_details)
+            all_jobs = fetch_with_playwright(max_pages=max_pages, keyword=search_kw, follow_details=follow_details, base_url=base)
         except Exception as e:
             logging.error(f"Playwright mode failed: {e}")
             return []
